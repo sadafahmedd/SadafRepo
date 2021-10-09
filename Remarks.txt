@@ -1,0 +1,8 @@
+Your HTML looks great! You've more or less covered all the information and elements from the sections you've chosen.
+Though you could easily include the missing social media icons and input fields for the contact form. You can also link the social media icons to the respective pages by including a link in the img tags.
+
+Your CSS could use a bit more work. I'm glad that you've included it, but its quite minimal. By using <div> tags, classes and ids you'll be able to implement many features like background-color, background-image, handle image/text layouts etc.
+
+The skeleton of your assignment is already there. A few more lines of code will help you clone the look of the given website perfectly!
+
+Keep exploring and experimenting with HTML and CSS features to see how to make your webpage more vibrant and dynamic. And of course, feel free to contact me in case of any doubts.
